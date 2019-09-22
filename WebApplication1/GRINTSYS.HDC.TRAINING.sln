@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRINTSYS.HDC.TRAINING.MVC", "GRINTSYS.HDC.TRAINING.MVC.csproj", "{A3D3E20D-3027-4321-9236-3FAACBCD5DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRINTSYS.HDC.TRAINING.TEST", "..\WebApplication1.Tests\GRINTSYS.HDC.TRAINING.TEST.csproj", "{285C7DC8-C2DD-4A75-8058-075D880BC36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D3E20D-3027-4321-9236-3FAACBCD5DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D3E20D-3027-4321-9236-3FAACBCD5DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D3E20D-3027-4321-9236-3FAACBCD5DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D3E20D-3027-4321-9236-3FAACBCD5DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285C7DC8-C2DD-4A75-8058-075D880BC36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285C7DC8-C2DD-4A75-8058-075D880BC36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285C7DC8-C2DD-4A75-8058-075D880BC36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285C7DC8-C2DD-4A75-8058-075D880BC36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B523C668-B269-465D-B4DF-CC641015F689}
+	EndGlobalSection
+EndGlobal
